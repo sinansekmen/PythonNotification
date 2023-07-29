@@ -8,8 +8,8 @@ while(True):
 
     notification.notify(
 
-        title = "Laptopun pili Bitiyorrr!!!!!",
-        message=str(percent)+ "% Aq su yakmıyor bu"
+        title = "Laptopun Pil Seviyesi",
+        message=str(percent)+ "% Laptop Pil Seviyesi"
     )
 
     time.sleep(5*5)
